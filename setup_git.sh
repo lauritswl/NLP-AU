@@ -1,5 +1,5 @@
 # run using 
-# bash path_to_folder/setup_git.sh
+# bash /work/NLP/NLP-AU/setup_git.sh
 
 git config --global user.email "lauritswl@gmail.com"
 git config --global user.name "lauritswl"
