@@ -140,3 +140,7 @@ backups/*
 requirements.txt
 *model.pt
 # 
+
+
+# distilbert model 
+nbs/distilbert
